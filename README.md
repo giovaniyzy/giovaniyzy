@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎲Math student<br>📚 Python beginner</p>
+<p align="left">🎲Math student<br>📚Python beginner<br>🇺🇸 B2 English</p>
 
 ###
 
